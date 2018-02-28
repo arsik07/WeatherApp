@@ -1,0 +1,22 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\bin\Release\WeatherApp.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.xml
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\obj\Release\WeatherApp.Form1.resources
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\obj\Release\WeatherApp.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\obj\Release\WeatherApp.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\obj\Release\WeatherApp.pdb
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe.config
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\bin\Release\WeatherApp.pdb
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.Form1.resources
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.Properties.Resources.resources
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.GenerateResource.Cache
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.exe
+C:\Users\Боевой КОТ\Documents\docs\WeatherApp2.0\WeatherApp\WeatherApp\obj\Release\WeatherApp.pdb
